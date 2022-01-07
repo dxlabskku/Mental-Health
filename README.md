@@ -9,8 +9,9 @@ In addition, we applied our model to specific group(e.g. university community) t
 
 
 ## Data
-Our sampled datasets are in data folder as capacity of datasets is big. We are only allowed to distribute the data for the research purpose, if you want to achieve full datasets, please complete the request form(update later).
+Our sampled twitter datasets are in data folder as capacity of full datasets is too big. We are only allowed to distribute the data for the research purpose, if you want to achieve full datasets, please complete the request form(update later).
 
 ## Experiment
 We employed deep learning framework to classify depression posts in the social media and university community.
-
+Within the models folder we uploaded classification models for each language. 
+to binarize comments into Jujeop and non-Jujeop types. Additionally, we conducted multi-class classification for each Jujeop type which uploaded in models/multiclass folder. We're always welcome to get feedback for improving model performance!
