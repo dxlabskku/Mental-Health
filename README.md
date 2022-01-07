@@ -5,7 +5,7 @@ In addition, we applied our model to specific group(e.g. university community) t
 
 ## Overview of our study
 ![new_model2](https://user-images.githubusercontent.com/96400041/148496605-79c7e029-bfcf-4df0-8986-88400a387ee3.jpg)
-**Figure : From data collcetion procedures to classification**
+**Figure : From data collcetion to classification**
 
 
 ## Data
