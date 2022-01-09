@@ -14,4 +14,4 @@ Our sampled twitter datasets are in **data** folder as gitHub limits the size of
 ## Experiment
 We employed deep learning framework to classify depression posts in the social media and university community. Within the models folder we uploaded binary classification models for each language. We achived ranges form 99.39% to 99.66% f1-score for each language in detecting depression posts on general social media and 64.51% f1-score for university community in South Korea.
 
-Within the **model** folder we uploaded classificatino models to detect depression posts.
+Within the ```model``` folder we uploaded classificatino models to detect depression posts.
