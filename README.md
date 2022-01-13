@@ -9,7 +9,7 @@ In addition, we applied our model to specific group(e.g. university community) t
 
 
 ## Data
-Our sampled _Twitter_ datasets are in ```data``` folder as gitHub limits the size of files allowed in repositories. We are only allowed to distribute the data for the research purpose, if you want to achieve full datasets, please complete the request form(update later).
+Our sampled _Twitter_ and _Everytime_ datasets are in ```data``` folder as gitHub limits the size of files allowed in repositories. We are only allowed to distribute the data for the research purpose, if you want to achieve full datasets, please complete the request form(update later).
 
 ## Experiment
 We employed deep learning framework to classify depression posts in the social media(_Tiwtter_) and university community(_Everytime_). Within the models folder we uploaded binary classification models for each language. We achived ranges form 99.39% to 99.66% f1-score for each language in detecting depression posts on general social media and 72.80% to 99.12% f1-score for university community in South Korea.
